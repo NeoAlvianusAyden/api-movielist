@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Catch Me If You Can",
+    "release_year": 2002,
+    "genre": "Crime Comedy",
+    "director": "Steven Spielberg",
+    "rating": 8.8
+  },
+  {
+    "id": 2,
+    "title": "Finding Nemo",
+    "release_year": 2003,
+    "genre": "Animation",
+    "director": "Andrew Stanton",
+    "rating": 9.2
+  },
+  {
+    "id": 3,
+    "title": "The Shawshank Redemption",
+    "release_year": 1994,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "rating": 9.3
+  },
+  {
+    "id": 4,
+    "title": "Madun",
+    "release_year": 2003,
+    "genre": "Sport",
+    "director": "Mmah ira",
+    "rating": 7.0
+  }
+]
